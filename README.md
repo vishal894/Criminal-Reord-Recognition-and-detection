@@ -10,8 +10,7 @@ There is an abnormal increase in the crime rate, this leads towards a great conc
 https://user-images.githubusercontent.com/63975935/121768289-2c533a80-cb7b-11eb-8840-d37a71b48f29.mov
 
 # Images of Project
-  sample output
-  ![detection2](https://user-images.githubusercontent.com/63975935/121768379-8e13a480-cb7b-11eb-9744-cb1c14ee05dc.jpg)
+  
 #datasetCreater.py
 ![dataset](https://user-images.githubusercontent.com/63975935/121768438-d3d06d00-cb7b-11eb-97f4-0df2aeb26d44.jpg)
 # database 
